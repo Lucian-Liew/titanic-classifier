@@ -13,6 +13,6 @@ The model achieved an accuracy of **82.68%** on a 20% hold-out test set.
 
 ## How to Run
 1. Clone this repo.
-2. Install dependencies: `pip install pandas scikit-learn`
-3. Download `train.csv` from Kaggle and place it in the root folder.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Download `train.csv` from Kaggle -- Titanic - Machine Learning from Disaster, and place it in the root folder.
 4. Run the script: `python main.py`
